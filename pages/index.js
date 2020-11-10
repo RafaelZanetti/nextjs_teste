@@ -3,7 +3,7 @@ import Contador from './components/contador'
 function Home() {
     return (
         <div>
-            <h2>Home</h2>
+            <h2>Home NextJS Teste</h2>
             <Contador />
         </div>
     )
